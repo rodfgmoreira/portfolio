@@ -1,12 +1,21 @@
-# Template - Tutorial Portfólio 2023
+# 🌐 Portfólio – Rodrigo Moreira
 
-![image](https://github.com/gbdev-labs/template-portfolio-tutorial-2023/assets/71772559/ade0ec7a-cb22-4c5c-a4fa-183ab380357e)
+Meu portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e formas de contato.
 
+## 🚀 Tecnologias
 
-Este é um template básico que será usado na [série do YouTube](https://youtube.com/playlist?list=PLY_G6KZ7jlfU41bdaWpTsOnfCC7bmpJcL) para criar um Portfólio com as ferramentas mais recentes de desenvolvimento web. O template inclui o Next.js 13, Tailwind CSS, Hygraph CMS, TypeScript e Framer Motion, que são as tecnologias principais que serão usadas na série.
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**
+- **TypeScript**
+- **React**
+- **Next.Js**
 
-O objetivo deste template é fornecer um ponto de partida para os espectadores que acompanham a série de tutoriais e desejam seguir juntamente com a construção do portfólio. Ele inclui a estrutura básica do projeto e os arquivos necessários para iniciar o desenvolvimento do portfólio.
+## ✨ Funcionalidades
 
-Ao usar este template, você poderá seguir os tutoriais da série passo a passo e criar um portfólio profissional e impressionante com as mais recentes tecnologias de desenvolvimento web.
+- Página responsiva para desktop e mobile  
+- Sessão com meus principais projetos e links para GitHub/Demo  
+- Layout moderno e focado em usabilidade
 
-[**Projeto final**](https://github.com/GBDev13/portfolio-tutorial-2023)
+## 📂 Estrutura de Pastas
+
