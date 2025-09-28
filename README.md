@@ -16,6 +16,3 @@ Meu portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e
 - Página responsiva para desktop e mobile  
 - Sessão com meus principais projetos e links para GitHub/Demo  
 - Layout moderno e focado em usabilidade
-
-## 📂 Estrutura de Pastas
-
