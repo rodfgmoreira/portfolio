@@ -1,5 +1,6 @@
 import { Button } from "@/app/components/button";
 import { TechBadge } from "@/app/components/tech-badge";
+import { HiArrowNarrowRight } from "react-icons/hi";
 import Image from "next/image";
 
 export function HeroSection() {
@@ -21,6 +22,7 @@ export function HeroSection() {
           <div>
             <Button>
               Entre em contato
+              <HiArrowNarrowRight/>
             </Button>
           </div>
         </div>
