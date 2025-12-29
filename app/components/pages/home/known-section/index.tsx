@@ -7,13 +7,15 @@ export function KnownTechs() {
     <section className="container py-16">
       <SectionTitle subtitle="competências" title="Conhecimentos" />
 
-      <div>
-        <KnownTech tech={{
-          icon: <TbBrandNextjs/>,
-          name: 'Next.js',
-          startDate: '2025-01-01'
-        }}
-        />
+      <div className="grid grid-cols-[repeat(auto-fit,minmax(264px,1fr))] gap-2 mt-[60px]">
+        {Array.from({ length: 8 }).map((_, index) => (
+          <KnownTech tech={{
+            icon: <TbBrandNextjs />,
+            name: 'Next.js',
+            startDate: '2025-01-01'
+          }}
+          />
+        ))}
       </div>
     </section>
   )
